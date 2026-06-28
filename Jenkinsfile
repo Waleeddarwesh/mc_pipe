@@ -12,7 +12,7 @@ pipeline {
     stages {
         stage('Hello World') {
             steps {
-                ech "Hello World from trigger ${params.ENVIRONMENT}"
+                echo "Hello World from trigger ${params.ENVIRONMENT}"
             }
         }
 
