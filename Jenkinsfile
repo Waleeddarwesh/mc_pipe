@@ -65,7 +65,7 @@ pipeline {
             attachLog: true,
             compressLog: true,
             from: "waleeddarweshsaad1@gmail.com",
-            to: "waleeddarwesh2002@gmail.com"
+            to: "ahmedelkazafi8@gmail.com"
         )
     }
         failure {
